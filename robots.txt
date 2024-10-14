@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sujiyahafoge.pages.dev/sitemap.xml
